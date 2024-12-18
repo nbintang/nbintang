@@ -3,7 +3,7 @@
 <br/>
 
 ## 💻 Tech Stack:
-[![My Skills]([https://skillicons.dev/icons?i=js,ts,py,tailwind,react,nextjs,nodejs,postgres,mysql,vscode,git,figma](https://skillicons.dev/icons?i=js,ts,go,tailwind,react,nextjs,nodejs,express,prisma,postgres,mysql,devto,vercel))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,tailwind,react,nextjs,nodejs,express,prisma,postgres,mysql,devto,vercel)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true)<br/>
