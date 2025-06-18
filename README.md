@@ -9,15 +9,9 @@
 
 ## 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbintang&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" width="90%" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbintang&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="90%" />
 
 </div>
+
