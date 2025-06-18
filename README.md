@@ -9,7 +9,7 @@
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" alt="Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbintang&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" alt="Streak Stats" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbintang&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="320" />
   </div>
 </div>
