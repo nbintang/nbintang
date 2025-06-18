@@ -5,11 +5,19 @@
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=ts,go,tailwind,react,nextjs,nodejs,express,nest,postgres,mysql)](https://skillicons.dev)
 
-## 📊 GitHub Stats:
 <div align="center">
-  <h2>📊 GitHub Stats:</h2>
-  <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" alt="Streak Stats" width="420" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbintang&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="320" />
-  </div>
+
+## 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbintang&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </div>
