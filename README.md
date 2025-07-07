@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Architect&quoteCategory=success)
 
 </div>
 
