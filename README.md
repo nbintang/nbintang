@@ -2,9 +2,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWczenBrYzlidzA2a3M4czJxdG1jNXB6enFicXk5djMyMXhud2cycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif" width="2000" >
 <br/>
 <div align="center">
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Architect&quoteCategory=success)
-
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Architect&quoteCategory=success&size=28" width="90%" />
 </div>
 
 ---
