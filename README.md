@@ -1,6 +1,7 @@
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWczenBrYzlidzA2a3M4czJxdG1jNXB6enFicXk5djMyMXhud2cycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif" width="2000" style="border-radius:20px;" />
-
+<div style="border-radius:20px; overflow:hidden; display:inline-block;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWczenBrYzlidzA2a3M4czJxdG1jNXB6enFicXk5djMyMXhud2cycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif" width="2000" />
+</div>
 
 Hi 👋, I'm Bintang
 ================================================================================================================================
