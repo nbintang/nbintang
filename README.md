@@ -22,4 +22,4 @@ I’m a passionate software developer from Indonesia with a strong enthusiasm fo
 * 💬  Ask me about Funfact: I really love working out and Hearing music💪🎧
  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" width="100%" />
