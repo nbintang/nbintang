@@ -19,12 +19,15 @@ I’m a passionate software developer from Indonesia with a strong enthusiasm fo
 * 💬  Ask me about Funfact: I really love working out and Hearing music💪🎧
 
 ### 📝 Language:
+---------------------------------
 [![My Skills](https://skillicons.dev/icons?i=ts,go)](https://skillicons.dev)
 
 ### 💻 Frontend:
+---------------------------------
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 ### ⚙️ Backend:
+---------------------------------
 [![My Skills](https://skillicons.dev/icons?i=express,nest,postgres,mysql)](https://skillicons.dev)
 
 
