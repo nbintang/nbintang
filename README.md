@@ -21,3 +21,15 @@ I’m a passionate software developer from Indonesia with a strong enthusiasm fo
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=ts,go,tailwind,react,nextjs,express,nest,postgres,mysql)](https://skillicons.dev)
 
+
+<!--START_SECTION:waka-->
+
+```txt
+Svelte                     818 hrs 24 mins ████████████▒░░░░░░░░░░░░   48.71 %
+TypeScript                 431 hrs 48 mins ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+PHP                        126 hrs 20 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+SQL                        77 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Blade Template             57 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+```
+
+<!--END_SECTION:waka-->
