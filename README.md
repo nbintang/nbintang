@@ -1,6 +1,6 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWczenBrYzlidzA2a3M4czJxdG1jNXB6enFicXk5djMyMXhud2cycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif" width="2000" >
-<br/>
+---------------------------------
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bintang
 ================================================================================================================================
 
