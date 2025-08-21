@@ -10,7 +10,7 @@ Software Developer from Indonesia
 
 I’m a passionate software developer from Indonesia with a strong enthusiasm for technology. I continuously explore and learn new trends in the tech industry to stay up to date and improve my skills.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,tailwind,react,nextjs,express,nest,postgres,mysql,git,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,tailwind,react,nextjs,express,nest,postgres,mysql,git,postman,vscode,pnpm)](https://skillicons.dev)
 
 * 🌍  I'm based in Depok City, West Java, Indonesia
 * 🖥️  See my portfolio at [Bxntang-v2](http://bxntang-2.vercel.app/)
