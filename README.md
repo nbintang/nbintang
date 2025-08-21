@@ -21,14 +21,5 @@ I’m a passionate software developer from Indonesia with a strong enthusiasm fo
 * 👥  I'm looking to collaborate on ScatUI Library
 * 💬  Ask me about Funfact: I really love working out and Hearing music💪🎧
  
-<!--START_SECTION:waka-->
 
-```txt
-Svelte                     818 hrs 24 mins ████████████▒░░░░░░░░░░░░   48.71 %
-TypeScript                 431 hrs 48 mins ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
-PHP                        126 hrs 20 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-SQL                        77 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Blade Template             57 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-```
-
-<!--END_SECTION:waka-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" width="90%" />
