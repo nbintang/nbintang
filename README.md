@@ -13,7 +13,7 @@ I’m a passionate software developer from Indonesia with a strong enthusiasm fo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,python,tailwind,react,nextjs,express,nest,postgres,mysql,git,postman,vscode,pnpm" />
+    <img src="https://skillicons.dev/icons?i=ts,go,python,tailwind,react,nextjs,express,nest,postgres,mysql,git,postman,vscode,pnpm&perline=3" />
   </a>
 </p>
 
