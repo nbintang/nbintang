@@ -11,7 +11,7 @@ Software Developer from Indonesia
 
 I’m a passionate software developer from Indonesia with a strong enthusiasm for technology. I continuously explore and learn new trends in the tech industry to stay up to date and improve my skills.
 
-<p  >
+<p align="center" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,go,python,react,nextjs,tailwind,express,nest,postgres,git,postman,vscode&perline=3" />
   </a>
