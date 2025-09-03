@@ -23,6 +23,4 @@ I’m a passionate software developer from Indonesia with a strong enthusiasm fo
 * 🚀  I'm currently working on [Saleskuy App](http://saleskuy.id)
 * 🧠  I'm currently learning NestJS, Golang, Docker, and deepening my knowledge in backend development.
 * 👥  I'm looking to collaborate on ScatUI Library
-* 💬  Funfact: I really love working out and Hearing music💪🎧
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nbintang&theme=dark&hide_border=true" width="100%" />
+* 💬  Funfact: I really love working out and Hearing music💪🎧 
