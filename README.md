@@ -6,10 +6,10 @@
 Hi 👋, I'm Bintang
 ================================================================================================================================
 
-Software Developer from Indonesia
+Software Engineer from Indonesia
 ---------------------------------
 
-I’m a passionate software developer from Indonesia with a strong enthusiasm for technology. I continuously explore and learn new trends in the tech industry to stay up to date and improve my skills.
+I’m a passionate software engineer from Indonesia with a strong enthusiasm for technology. I continuously explore and learn new trends in the tech industry to stay up to date and improve my skills.
 
 <p   >
   <a href="https://skillicons.dev">
