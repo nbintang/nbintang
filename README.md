@@ -1,6 +1,6 @@
 
 <div style="border-radius:20px; overflow:hidden; display:inline-block;">
-<img width="1584" height="396" alt="Black and Gray Minimalist LinkedIn Banner" src="https://github.com/user-attachments/assets/6ab28c05-e6e6-4063-a796-c3344f25fa16" />
+   <img width="1584" height="396" alt="Black and Gray Minimalist LinkedIn Banner" src="https://github.com/user-attachments/assets/aa217f65-e1e7-4932-bad1-70fc999c5917" />
 </div>
 
 
