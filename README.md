@@ -20,9 +20,29 @@ I’m a passionate software engineer from Indonesia with a strong enthusiasm for
 * 🚀  I'm currently working on [Saleskuy App](http://saleskuy.id)
 * 🧠  I'm currently learning NestJS, Golang, Docker, and deepening my knowledge in backend development.
 * 👥  I'm looking to collaborate on ScatUI Library
-* 💬  Funfact: I really love working out and Hearing music💪🎧 
-<p   >
+* 💬  Funfact: I really love working out and Hearing music💪🎧
+
+### What I Mastered
+
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,python,react,nextjs,tailwind,express,nest,postgres,docker,git,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nest,postgres" />
+  </a>
+</p>
+
+### What I Currently Learning
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,docker" />
+  </a>
+</p>
+
+
+### Others
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,vscode" />
   </a>
 </p>
