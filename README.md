@@ -26,7 +26,7 @@ I’m a passionate software engineer from Indonesia with a strong enthusiasm for
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,nest,postgres" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,express,nest,postgres" />
   </a>
 </p>
 
