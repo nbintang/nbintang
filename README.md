@@ -22,7 +22,7 @@ I’m a passionate software engineer from Indonesia with a strong enthusiasm for
 * 👥  I'm looking to collaborate on ScatUI Library
 * 💬  Funfact: I really love working out and Hearing music💪🎧
 
-### What I Mastered
+### What I Can Do
 
 <p>
   <a href="https://skillicons.dev">
