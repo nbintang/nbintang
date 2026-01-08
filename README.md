@@ -34,7 +34,7 @@ I’m a passionate software engineer from Indonesia with a strong enthusiasm for
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,docker,fastapi" />
+    <img src="https://skillicons.dev/icons?i=go,python,docker,redis,fastapi" />
   </a>
 </p>
 
