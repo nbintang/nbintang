@@ -19,7 +19,6 @@ I’m a passionate software engineer from Indonesia with a strong enthusiasm for
 * ✉️  You can contact me at [nbintangh@gmail.com](mailto:nbintangh@gmail.com)
 * 🚀  I'm currently working on [Saleskuy App](http://saleskuy.id)
 * 🧠  I'm currently learning NestJS, Golang, Docker, and deepening my knowledge in backend development.
-* 👥  I'm looking to collaborate on ScatUI Library
 * 💬  Funfact: I really love working out and Hearing music💪🎧
 
 ### What I Can Do
