@@ -17,8 +17,7 @@ I’m a passionate software engineer from Indonesia with a strong enthusiasm for
 * 🌍  I'm based in Depok City, West Java, Indonesia
 * 🖥️  See my portfolio at [Bxntang-v2](http://bxntang-2.vercel.app/)
 * ✉️  You can contact me at [nbintangh@gmail.com](mailto:nbintangh@gmail.com)
-* 🚀  I'm currently working on [Saleskuy App](http://saleskuy.id)
-* 🧠  I'm currently learning NestJS, Golang, Docker, and deepening my knowledge in backend development.
+* 🧠  I'm currently learning NestJS, Golang, Docker, Go, Python, PHP, Laravel and deepening my knowledge in backend development.
 * 💬  Funfact: I really love working out and Hearing music💪🎧
 
 ### What I Can Do
